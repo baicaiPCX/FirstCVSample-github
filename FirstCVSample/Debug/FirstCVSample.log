@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  FirstCVSample.cpp
+c:\users\ying\desktop\firstcvsample\firstcvsample\firstcvsample.cpp(17): warning C4129: “i”: 不可识别的字符转义序列
+opencv_world331d.lib(opencv_world331d.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“X86”冲突
